@@ -22,4 +22,5 @@ Sivusto sisältää etusivun, tuotesivun sekä yrityksen esittelysivun. Tuotteid
 ## Projektin käynnistys
 
 npm install
+
 npm run dev
